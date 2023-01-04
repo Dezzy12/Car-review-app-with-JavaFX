@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5101fdc8-276e-4edc-a5de-baca6a123f9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dezzy/mavenprojects/CarProgram.java" afterDir="false" />
+    <list default="true" id="5101fdc8-276e-4edc-a5de-baca6a123f9b" name="Changes" comment="initial commit">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/dezzy/mavenprojects/HelloApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/dezzy/mavenprojects/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dezzy/mavenprojects/carControllers/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/dezzy/mavenprojects/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/dezzy/mavenprojects/carFXMLS/loginMain.fxml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/com/dezzy/mavenprojects/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +113,16 @@
       <workItem from="1672120492223" duration="3821000" />
       <workItem from="1672344946135" duration="8713000" />
       <workItem from="1672819197775" duration="1313000" />
+      <workItem from="1672822063825" duration="328000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1672822371759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672822371759</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,5 +138,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
